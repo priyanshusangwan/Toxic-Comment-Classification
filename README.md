@@ -2,15 +2,6 @@
 
 This repository contains the code and resources for a Toxic Comment Classification model. The model is designed to classify text comments into various toxicity categories.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Results](#results)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [License](#license)
-
 ## Overview
 
 The goal of this project is to build a machine learning model that can effectively classify text comments as toxic, severe toxic, obscene, threat, insult, and identity hate. The model is trained on a dataset provided by Jigsaw/Conversation AI.
@@ -26,34 +17,12 @@ The dataset used for training and evaluation is available on Kaggle: [Toxic Comm
 - Precision: 85.26%
 - Recall: 84.10%
 
-## Usage
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone git@github.com:Ashutosh-Singh-Thakur/Toxic-Comment-Classification.git
-   cd toxic-comment-classification
-   ```
-
-2. **Choose one of the following options to view and run the Jupyter Notebook:**
-
-   - **View Locally:**
-     - Install Jupyter Notebook dependencies:
-       ```bash
-       pip install notebook
-       ```
-     - Run Jupyter Notebook:
-       ```bash
-       jupyter notebook notebooks/toxic_comment_classification.ipynb
-       ```
-     - Open the notebook and run the cells to see the model in action.
-
-   - **View on Google Colab:**
-     - Click the following link to view and run the notebook on Google Colab:
+   - **Google Colab:**
+     
        
        <a href="https://colab.research.google.com/github/Ashutosh-Singh-Thakur/Toxic-Comment-Classification/blob/main/notebooks/toxic_comment_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
            
-     - This will open the notebook in Google Colab, where you can run the cells and interact with the code.
+   
 
 ## Dependencies
 
