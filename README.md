@@ -20,7 +20,7 @@ The dataset used for training and evaluation is available on Kaggle: [Toxic Comm
    - **Google Colab:**
      
        
-       <a href="https://colab.research.google.com/drive/1LD6cgLNRV08niqdAQmxXSG4OZMwrxlSm#scrollTo=2fda690d"/></a>
+       <a href="https://colab.research.google.com/drive/1LD6cgLNRV08niqdAQmxXSG4OZMwrxlSm?usp=sharing"/></a>
            
    
 
